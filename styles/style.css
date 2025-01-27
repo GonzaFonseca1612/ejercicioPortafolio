@@ -137,5 +137,7 @@ body{
     .presentacion__contenido__texto {
         width: auto;
     }
-
+    #titulo {
+        text-align: center;
+    }
 }
